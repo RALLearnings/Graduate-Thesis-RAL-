@@ -1,2 +1,2 @@
-# Graduate-Thesis-RAL-
-Repository of my Graduate Thesis
+# Graduate Thesis (RAL)
+This is the repository for my Graduate Thesis
